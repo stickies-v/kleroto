@@ -34,6 +34,8 @@ const DRAND_RETRY_MS = 1_000;
 const DRAND_ERROR_RETRY_MS = 3_000;
 const FINAL_SECONDS = 10;
 const MAX_BLOCK_SQUARES = 12;
+const NOTHING_TO_DO =
+  "You don't need to do anything. The list is final. Open this link again after the draw to see who's selected.";
 
 interface Page {
   status: HTMLElement;
@@ -169,6 +171,7 @@ function watchBitcoin(page: Page, height: number): () => void {
       h('div', {}, h('dt', {}, 'Current block'), currentBlock),
       h('div', {}, h('dt', {}, 'Draw block'), h('dd', {}, formatNumber(height))),
     ),
+    h('p', { class: 'nothing-to-do' }, NOTHING_TO_DO),
     h(
       'p',
       { class: 'hint' },
@@ -264,6 +267,7 @@ function watchDrand(page: Page, round: number): () => void {
     h('h2', {}, 'The draw starts in'),
     clock,
     h('p', { class: 'when' }, `${formatWhen(drawAt, true)} exactly`),
+    h('p', { class: 'nothing-to-do' }, NOTHING_TO_DO),
     h(
       'p',
       { class: 'hint' },
@@ -318,7 +322,7 @@ function participantsPanel(draw: Draw) {
   const hint = h('p', { class: 'hint', hidden: true });
   const element = h(
     'details',
-    { class: 'card details' },
+    { class: 'card details', open: true },
     h('summary', {}, `All ${plural(draw.participants.length, 'participant')}`),
     hint,
     h('ol', { class: 'participants' }, ...rows),

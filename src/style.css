@@ -888,6 +888,15 @@ legend {
   font-variant-numeric: tabular-nums;
 }
 
+.nothing-to-do {
+  max-width: 28em;
+  margin: 16px auto 0;
+  padding: 10px 14px;
+  border-radius: 10px;
+  background: var(--accent-soft);
+  text-wrap: balance;
+}
+
 .news {
   color: var(--good);
   font-weight: 600;
