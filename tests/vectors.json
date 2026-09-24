@@ -1,0 +1,154 @@
+{
+  "draws": [
+    {
+      "name": "select one of five names",
+      "fragment": "v1.Dco7CsNADEXR_q1CS4iLBDJNyG8NqTVCYGFhmRnZkN17LtzuLK4tMuiYkJauhX5zUN3_nXJWEl70ga6ukoUm9NibDFQtJWyl--0ywsYtTWzjNXuhK55uonhFxZtbOD58KL7jEw",
+      "canonical": "kleroto v1\ntitle: Who buys the cake?\nselect: 1\nsource: bitcoin 960000\nparticipants: 5\nAlice\nBob\nCarol\nDave\nEve\n",
+      "randomness": "000000000000000000001268aab06132c2dd203f77b6020462cd177942d6959d",
+      "fingerprint": "ecd3854c43d40dec19d5fe310a875d71dab4eec4c47bc6514edcb6e093e65309",
+      "selected": [
+        4
+      ],
+      "selectedTickets": [
+        "310279158a7981ffff916beb44d8151b355a61517e5cc523d94cf40b1b3b6531"
+      ]
+    },
+    {
+      "name": "unicode participants with drand",
+      "fragment": "v1.y85JLcovyVcoM-QqySzJSbVSCCjKzKpKzVP4ML-vUSHt8J4ihcScnFSu4tSc1OQSKwVjruL80qJkoMKUosS8FN3C0szk7LzUEgVDAzDgKkgsKslMzixIzCsptlIw54rKP7yayyu_-PBKrmdz-17O3s51Yc6FDRcbLuy42M91eEZRVmIe14f5MxoUgnMzc1IrufzSSysf7m7NUwg70pyn4MgFAA",
+      "canonical": "kleroto v1\ntitle: Prijzen 🎁 für alle\nselect: 3\nsource: drand-quicknet 1000000\nparticipants: 7\nZoë\nJosé\n李雷\nМария\nØrjan\n😀 Smiley\nNguyễn Văn A\n",
+      "randomness": "b22aad4794f7451896f7a371aa46106fd84d919f3f569acd5b2fddf1d1440af3",
+      "fingerprint": "dee304d91a749d9c5f24a67f155dbf53304f57d395c20ba9f93aa5c0e78f81d1",
+      "selected": [
+        1,
+        0,
+        2
+      ],
+      "selectedTickets": [
+        "00090a48a0fb13f06ee7ca888ac8751c7489fbdb1043997ff531a3f5db8325b8",
+        "08c4de4ea5f07f9244430e7677f0673f51d3ea2aff06e901ad9e31ee102ab2a4",
+        "1df2d6b488be3c32e18695595e6ba57694f92db088dfa9bf42b07c7e2f2f988f"
+      ]
+    },
+    {
+      "name": "select everyone",
+      "fragment": "v1.RczLDYQwDEXRvatwCcl8mIE2poJMsJBFFEeOoX4QC_NWZ_F010IqJrhHMLZCE_4apZXrgqIzKXQqlG3CGKDLpvl8_NmycMVxCOegJTXO3FK1fv2uAilG18P1dL1cb9fg-ri-rvEuBzgA",
+      "canonical": "kleroto v1\ntitle: Speaking order\nselect: 10\nsource: bitcoin 960000\nparticipants: 10\nSpeaker 1\nSpeaker 2\nSpeaker 3\nSpeaker 4\nSpeaker 5\nSpeaker 6\nSpeaker 7\nSpeaker 8\nSpeaker 9\nSpeaker 10\n",
+      "randomness": "000000000000000000001268aab06132c2dd203f77b6020462cd177942d6959d",
+      "fingerprint": "3089a0b9c2c42b7920c86ceb590129263ed0b2c73b6baacdb31f284a29ed291c",
+      "selected": [
+        5,
+        6,
+        3,
+        7,
+        8,
+        9,
+        2,
+        0,
+        4,
+        1
+      ],
+      "selectedTickets": [
+        "4a6bd99648b4d1b9fb92856197820d9d0c56ce564f50ffdd67961c076de8a2b6",
+        "62193d2c24cf0b2757c1b781595461fa35657601dc0248c321d2fe4f43ec23b1",
+        "6b71894a259d1f4ae91ca9dc0610b145b9121e751dafb4cd1883e2109c52e1a3",
+        "7d31e8404613db7626b9ad6ce5236986244a11a48049588ac8904454dc481c3c",
+        "8dfbaf3b4806973798a9f0a375170785004c7b9140e9b833cdc928084a662c0e",
+        "9e9c4079d49407618388df73ffbdbfd9199368eac875c843f3b23d30cfa1adbb",
+        "ad7ff51155d31176d54980d024c471f3ece0e90cf848823f3f95e83ebd8f0016",
+        "c912860f25de6cb7d0fb7ea25ca099702748a65eb6e169dfd85e51c5233f7041",
+        "e138eaf2c07bc6e900a6607fa841dc45b2666a38bbd0142ba55324008825305d",
+        "f16d60a230a6b0f578b7c19a423fc437107f35e436bca01afb571e7d5682a298"
+      ]
+    },
+    {
+      "name": "single participant",
+      "fragment": "v1.FcqxDYAwDAXR3lN4hbRZgoIJguXCwrKj5IPE9iTt3btdRyL5LQSDa-Uj_OMMpamugsqFZj5D1roMkhar9DZgYr0F5hZnetIP",
+      "canonical": "kleroto v1\ntitle: Only one\nselect: 1\nsource: bitcoin 1\nparticipants: 1\nSolo\n",
+      "randomness": "0000000000000000000000000000000000000000000000000000000000000000",
+      "fingerprint": "6f0a05c91943a83ede973b139fe0fd0473df1326c01607ac3c297f0f054afda3",
+      "selected": [
+        0
+      ],
+      "selectedTickets": [
+        "14d88488c4e485f469c3998126959558a5f735d49893a8c681c3814d571352bd"
+      ]
+    },
+    {
+      "name": "duplicate participants",
+      "fragment": "v1.FcuxEYAgDEDRPlNkAQs9Kzp1BRdAjHecOYIh6PpC8bv_biYVE3xHsGhMDvdP0GK4yQpeorjKAYWYgjmcoEjV0K5TfTqHp7YxkeE8QfbaWMw-WXE4w8IxEHTd27wKww8",
+      "canonical": "kleroto v1\ntitle: Two tickets for Bob\nselect: 2\nsource: drand-quicknet 42\nparticipants: 4\nAlice\nBob\nBob\nCarol\n",
+      "randomness": "ffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffffff",
+      "fingerprint": "0e6674f45b468d9a5a37f04741533d3f0a8e92b39002bcfd206f7b509df525ae",
+      "selected": [
+        1,
+        3
+      ],
+      "selectedTickets": [
+        "49a096534454b79257a953ad5d79fd65fedc1e3e9941957839392ba2d4b79b75",
+        "5f9b9e379183260e6be4e326fbebdc5f360af5eb8fe90e738ef06804852aecf5"
+      ]
+    },
+    {
+      "name": "one thousand participants",
+      "fragment": "v1.TdpdiiW5EYDR915FL6H0E4qIWYbxBsZNGxoPHjPT9vptDKWjekooyK-oe-OQKekfv33_4_efv3_9z_jy88fP377_8vUvv_797799__Ln99--f_v5y9cZX_78_d9_fPvfb_724-e333_882v__-fLv3794-ePbz_-9es_f_75y9fx8fHx5a8_vv3j-8-v4_Nifl6sz4v9eRGfF-fzIj8v6vOi7w3d-t573JuPe_dxbz_u_ccNjFsYNzFuY97G9PffxryNeRv_-9d8Xt3GvI15G_M21m2s21j-SbexbmPdxrqNdRvrNtZt7NvYt7FvY_skbmPfxr6NfRv7NvZtxG3EbcRtxG2Ej_s24jbiNuI24jbObZzbOLdxbuPcxvGduo1zG-c2zm3kbeRt5G3kbeRt5G2kL-5t5G3kbdRt1G3UbdRt1G3UbdRtlOm4jbqNvo2-jb6Nvo2-jb6Nvo2-jTaCzwwawg9T-GEMP8zhh0H8MIkfRvHDLH4Yxg-1d-TVnqF_pv4Z-2fun8F_Jv8ZfbM_DP8w_cP4D_M_ADAIMBAwGDAgMCgwMDA4MEAwSDBQMFgwYDBoMHAweDCAMIgwkDCYMKAwqDCwMLgwwDDIMNAw2DDgMOgw8DD4MAAxCDEQMRgxIDEoMTAxODFAMUgxUDFYMWAxaDFwMXgxgDGIMZAxmDGgMagxsDG4McAxyDHQMdgx4DHoMfAx-DEAMggyEDIYMiAyKDIwMjgyQDJIMlAyWDJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMp_niOdB4n2SUHueJZ6Hiedp4nmceJ4nngcKlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWTJZMlkyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYslqzn7eR5PXneT94XFLXnFeV5R3leUp63lOc1hSWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWLJYsliyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyX7WfN4Fj2eVY9n2eNd91B7Vj6epY9n7eNZ_GDJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmyWbJZslmSbAkWBIsCZYES4IlwZJgSbAkWBIsCZYES4IlwZJgSbAkWBIsCZYES4IlwZJgSbAkWBIsCZYES4IlwZJgSbAkWBIsCZYES4IlwZJgSbAkWBIsCZYES4IlwZJgSbAknpXUZyn1WUt9FlOf1dR3OVXtWVB9VlSfJVWWBEuCJcGSYEmwJFgSLAmWBEuCJcGSYEmwJFgSLAmWBEuCJcGSYEmwJFgSLAmWBEuCJcGSYEmwJFgSLAmWBEuCJcGSYEmwJFgSLAmWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclpxnf-bZoHl2aJ4tmmeP5tmkeXdp1J59mmejhiWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyWHJYclhyXJkmRJsiRZkixJliRLkiXJkmRJsiRZkixJliRLkiXJkmRJsiRZkixJliRLkiXJkmRJsiRZkixJliRLkiXJkmRJsiRZkixJliRLkiXJkmRJsiRZkixJliRLkiXJkmRJsiRZkixJliRLkiXJkmRJsiRZkixJliRLkiXJkmRJsiRZkizJZ9f32fZ99n2fjd9n5_fZ-n32ft_NX7Vn-5clyZJkSbIkWZIsSZYkS5IlyZJkSbIkWZIsSZYkS5IlyZJkSbIkWVIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGkWFIsKZYUS4olxZJiSbGknrMkz2GS5zTJc5zkOU_yHCh5TpQ8R0reMyVqLCmWFEuKJcWSYkmxpFhSLCmWFEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJc2SZkmzpFnSLGmWNEuaJf2cUHuOqD1n1J5Das8pteeY2nNO7Tmo9pxUe4-qvWfVPr78Fw",
+      "canonical": "kleroto v1\ntitle: Raffle\nselect: 25\nsource: bitcoin 999999\nparticipants: 1000\nTicket 1\nTicket 2\nTicket 3\nTicket 4\nTicket 5\nTicket 6\nTicket 7\nTicket 8\nTicket 9\nTicket 10\nTicket 11\nTicket 12\nTicket 13\nTicket 14\nTicket 15\nTicket 16\nTicket 17\nTicket 18\nTicket 19\nTicket 20\nTicket 21\nTicket 22\nTicket 23\nTicket 24\nTicket 25\nTicket 26\nTicket 27\nTicket 28\nTicket 29\nTicket 30\nTicket 31\nTicket 32\nTicket 33\nTicket 34\nTicket 35\nTicket 36\nTicket 37\nTicket 38\nTicket 39\nTicket 40\nTicket 41\nTicket 42\nTicket 43\nTicket 44\nTicket 45\nTicket 46\nTicket 47\nTicket 48\nTicket 49\nTicket 50\nTicket 51\nTicket 52\nTicket 53\nTicket 54\nTicket 55\nTicket 56\nTicket 57\nTicket 58\nTicket 59\nTicket 60\nTicket 61\nTicket 62\nTicket 63\nTicket 64\nTicket 65\nTicket 66\nTicket 67\nTicket 68\nTicket 69\nTicket 70\nTicket 71\nTicket 72\nTicket 73\nTicket 74\nTicket 75\nTicket 76\nTicket 77\nTicket 78\nTicket 79\nTicket 80\nTicket 81\nTicket 82\nTicket 83\nTicket 84\nTicket 85\nTicket 86\nTicket 87\nTicket 88\nTicket 89\nTicket 90\nTicket 91\nTicket 92\nTicket 93\nTicket 94\nTicket 95\nTicket 96\nTicket 97\nTicket 98\nTicket 99\nTicket 100\nTicket 101\nTicket 102\nTicket 103\nTicket 104\nTicket 105\nTicket 106\nTicket 107\nTicket 108\nTicket 109\nTicket 110\nTicket 111\nTicket 112\nTicket 113\nTicket 114\nTicket 115\nTicket 116\nTicket 117\nTicket 118\nTicket 119\nTicket 120\nTicket 121\nTicket 122\nTicket 123\nTicket 124\nTicket 125\nTicket 126\nTicket 127\nTicket 128\nTicket 129\nTicket 130\nTicket 131\nTicket 132\nTicket 133\nTicket 134\nTicket 135\nTicket 136\nTicket 137\nTicket 138\nTicket 139\nTicket 140\nTicket 141\nTicket 142\nTicket 143\nTicket 144\nTicket 145\nTicket 146\nTicket 147\nTicket 148\nTicket 149\nTicket 150\nTicket 151\nTicket 152\nTicket 153\nTicket 154\nTicket 155\nTicket 156\nTicket 157\nTicket 158\nTicket 159\nTicket 160\nTicket 161\nTicket 162\nTicket 163\nTicket 164\nTicket 165\nTicket 166\nTicket 167\nTicket 168\nTicket 169\nTicket 170\nTicket 171\nTicket 172\nTicket 173\nTicket 174\nTicket 175\nTicket 176\nTicket 177\nTicket 178\nTicket 179\nTicket 180\nTicket 181\nTicket 182\nTicket 183\nTicket 184\nTicket 185\nTicket 186\nTicket 187\nTicket 188\nTicket 189\nTicket 190\nTicket 191\nTicket 192\nTicket 193\nTicket 194\nTicket 195\nTicket 196\nTicket 197\nTicket 198\nTicket 199\nTicket 200\nTicket 201\nTicket 202\nTicket 203\nTicket 204\nTicket 205\nTicket 206\nTicket 207\nTicket 208\nTicket 209\nTicket 210\nTicket 211\nTicket 212\nTicket 213\nTicket 214\nTicket 215\nTicket 216\nTicket 217\nTicket 218\nTicket 219\nTicket 220\nTicket 221\nTicket 222\nTicket 223\nTicket 224\nTicket 225\nTicket 226\nTicket 227\nTicket 228\nTicket 229\nTicket 230\nTicket 231\nTicket 232\nTicket 233\nTicket 234\nTicket 235\nTicket 236\nTicket 237\nTicket 238\nTicket 239\nTicket 240\nTicket 241\nTicket 242\nTicket 243\nTicket 244\nTicket 245\nTicket 246\nTicket 247\nTicket 248\nTicket 249\nTicket 250\nTicket 251\nTicket 252\nTicket 253\nTicket 254\nTicket 255\nTicket 256\nTicket 257\nTicket 258\nTicket 259\nTicket 260\nTicket 261\nTicket 262\nTicket 263\nTicket 264\nTicket 265\nTicket 266\nTicket 267\nTicket 268\nTicket 269\nTicket 270\nTicket 271\nTicket 272\nTicket 273\nTicket 274\nTicket 275\nTicket 276\nTicket 277\nTicket 278\nTicket 279\nTicket 280\nTicket 281\nTicket 282\nTicket 283\nTicket 284\nTicket 285\nTicket 286\nTicket 287\nTicket 288\nTicket 289\nTicket 290\nTicket 291\nTicket 292\nTicket 293\nTicket 294\nTicket 295\nTicket 296\nTicket 297\nTicket 298\nTicket 299\nTicket 300\nTicket 301\nTicket 302\nTicket 303\nTicket 304\nTicket 305\nTicket 306\nTicket 307\nTicket 308\nTicket 309\nTicket 310\nTicket 311\nTicket 312\nTicket 313\nTicket 314\nTicket 315\nTicket 316\nTicket 317\nTicket 318\nTicket 319\nTicket 320\nTicket 321\nTicket 322\nTicket 323\nTicket 324\nTicket 325\nTicket 326\nTicket 327\nTicket 328\nTicket 329\nTicket 330\nTicket 331\nTicket 332\nTicket 333\nTicket 334\nTicket 335\nTicket 336\nTicket 337\nTicket 338\nTicket 339\nTicket 340\nTicket 341\nTicket 342\nTicket 343\nTicket 344\nTicket 345\nTicket 346\nTicket 347\nTicket 348\nTicket 349\nTicket 350\nTicket 351\nTicket 352\nTicket 353\nTicket 354\nTicket 355\nTicket 356\nTicket 357\nTicket 358\nTicket 359\nTicket 360\nTicket 361\nTicket 362\nTicket 363\nTicket 364\nTicket 365\nTicket 366\nTicket 367\nTicket 368\nTicket 369\nTicket 370\nTicket 371\nTicket 372\nTicket 373\nTicket 374\nTicket 375\nTicket 376\nTicket 377\nTicket 378\nTicket 379\nTicket 380\nTicket 381\nTicket 382\nTicket 383\nTicket 384\nTicket 385\nTicket 386\nTicket 387\nTicket 388\nTicket 389\nTicket 390\nTicket 391\nTicket 392\nTicket 393\nTicket 394\nTicket 395\nTicket 396\nTicket 397\nTicket 398\nTicket 399\nTicket 400\nTicket 401\nTicket 402\nTicket 403\nTicket 404\nTicket 405\nTicket 406\nTicket 407\nTicket 408\nTicket 409\nTicket 410\nTicket 411\nTicket 412\nTicket 413\nTicket 414\nTicket 415\nTicket 416\nTicket 417\nTicket 418\nTicket 419\nTicket 420\nTicket 421\nTicket 422\nTicket 423\nTicket 424\nTicket 425\nTicket 426\nTicket 427\nTicket 428\nTicket 429\nTicket 430\nTicket 431\nTicket 432\nTicket 433\nTicket 434\nTicket 435\nTicket 436\nTicket 437\nTicket 438\nTicket 439\nTicket 440\nTicket 441\nTicket 442\nTicket 443\nTicket 444\nTicket 445\nTicket 446\nTicket 447\nTicket 448\nTicket 449\nTicket 450\nTicket 451\nTicket 452\nTicket 453\nTicket 454\nTicket 455\nTicket 456\nTicket 457\nTicket 458\nTicket 459\nTicket 460\nTicket 461\nTicket 462\nTicket 463\nTicket 464\nTicket 465\nTicket 466\nTicket 467\nTicket 468\nTicket 469\nTicket 470\nTicket 471\nTicket 472\nTicket 473\nTicket 474\nTicket 475\nTicket 476\nTicket 477\nTicket 478\nTicket 479\nTicket 480\nTicket 481\nTicket 482\nTicket 483\nTicket 484\nTicket 485\nTicket 486\nTicket 487\nTicket 488\nTicket 489\nTicket 490\nTicket 491\nTicket 492\nTicket 493\nTicket 494\nTicket 495\nTicket 496\nTicket 497\nTicket 498\nTicket 499\nTicket 500\nTicket 501\nTicket 502\nTicket 503\nTicket 504\nTicket 505\nTicket 506\nTicket 507\nTicket 508\nTicket 509\nTicket 510\nTicket 511\nTicket 512\nTicket 513\nTicket 514\nTicket 515\nTicket 516\nTicket 517\nTicket 518\nTicket 519\nTicket 520\nTicket 521\nTicket 522\nTicket 523\nTicket 524\nTicket 525\nTicket 526\nTicket 527\nTicket 528\nTicket 529\nTicket 530\nTicket 531\nTicket 532\nTicket 533\nTicket 534\nTicket 535\nTicket 536\nTicket 537\nTicket 538\nTicket 539\nTicket 540\nTicket 541\nTicket 542\nTicket 543\nTicket 544\nTicket 545\nTicket 546\nTicket 547\nTicket 548\nTicket 549\nTicket 550\nTicket 551\nTicket 552\nTicket 553\nTicket 554\nTicket 555\nTicket 556\nTicket 557\nTicket 558\nTicket 559\nTicket 560\nTicket 561\nTicket 562\nTicket 563\nTicket 564\nTicket 565\nTicket 566\nTicket 567\nTicket 568\nTicket 569\nTicket 570\nTicket 571\nTicket 572\nTicket 573\nTicket 574\nTicket 575\nTicket 576\nTicket 577\nTicket 578\nTicket 579\nTicket 580\nTicket 581\nTicket 582\nTicket 583\nTicket 584\nTicket 585\nTicket 586\nTicket 587\nTicket 588\nTicket 589\nTicket 590\nTicket 591\nTicket 592\nTicket 593\nTicket 594\nTicket 595\nTicket 596\nTicket 597\nTicket 598\nTicket 599\nTicket 600\nTicket 601\nTicket 602\nTicket 603\nTicket 604\nTicket 605\nTicket 606\nTicket 607\nTicket 608\nTicket 609\nTicket 610\nTicket 611\nTicket 612\nTicket 613\nTicket 614\nTicket 615\nTicket 616\nTicket 617\nTicket 618\nTicket 619\nTicket 620\nTicket 621\nTicket 622\nTicket 623\nTicket 624\nTicket 625\nTicket 626\nTicket 627\nTicket 628\nTicket 629\nTicket 630\nTicket 631\nTicket 632\nTicket 633\nTicket 634\nTicket 635\nTicket 636\nTicket 637\nTicket 638\nTicket 639\nTicket 640\nTicket 641\nTicket 642\nTicket 643\nTicket 644\nTicket 645\nTicket 646\nTicket 647\nTicket 648\nTicket 649\nTicket 650\nTicket 651\nTicket 652\nTicket 653\nTicket 654\nTicket 655\nTicket 656\nTicket 657\nTicket 658\nTicket 659\nTicket 660\nTicket 661\nTicket 662\nTicket 663\nTicket 664\nTicket 665\nTicket 666\nTicket 667\nTicket 668\nTicket 669\nTicket 670\nTicket 671\nTicket 672\nTicket 673\nTicket 674\nTicket 675\nTicket 676\nTicket 677\nTicket 678\nTicket 679\nTicket 680\nTicket 681\nTicket 682\nTicket 683\nTicket 684\nTicket 685\nTicket 686\nTicket 687\nTicket 688\nTicket 689\nTicket 690\nTicket 691\nTicket 692\nTicket 693\nTicket 694\nTicket 695\nTicket 696\nTicket 697\nTicket 698\nTicket 699\nTicket 700\nTicket 701\nTicket 702\nTicket 703\nTicket 704\nTicket 705\nTicket 706\nTicket 707\nTicket 708\nTicket 709\nTicket 710\nTicket 711\nTicket 712\nTicket 713\nTicket 714\nTicket 715\nTicket 716\nTicket 717\nTicket 718\nTicket 719\nTicket 720\nTicket 721\nTicket 722\nTicket 723\nTicket 724\nTicket 725\nTicket 726\nTicket 727\nTicket 728\nTicket 729\nTicket 730\nTicket 731\nTicket 732\nTicket 733\nTicket 734\nTicket 735\nTicket 736\nTicket 737\nTicket 738\nTicket 739\nTicket 740\nTicket 741\nTicket 742\nTicket 743\nTicket 744\nTicket 745\nTicket 746\nTicket 747\nTicket 748\nTicket 749\nTicket 750\nTicket 751\nTicket 752\nTicket 753\nTicket 754\nTicket 755\nTicket 756\nTicket 757\nTicket 758\nTicket 759\nTicket 760\nTicket 761\nTicket 762\nTicket 763\nTicket 764\nTicket 765\nTicket 766\nTicket 767\nTicket 768\nTicket 769\nTicket 770\nTicket 771\nTicket 772\nTicket 773\nTicket 774\nTicket 775\nTicket 776\nTicket 777\nTicket 778\nTicket 779\nTicket 780\nTicket 781\nTicket 782\nTicket 783\nTicket 784\nTicket 785\nTicket 786\nTicket 787\nTicket 788\nTicket 789\nTicket 790\nTicket 791\nTicket 792\nTicket 793\nTicket 794\nTicket 795\nTicket 796\nTicket 797\nTicket 798\nTicket 799\nTicket 800\nTicket 801\nTicket 802\nTicket 803\nTicket 804\nTicket 805\nTicket 806\nTicket 807\nTicket 808\nTicket 809\nTicket 810\nTicket 811\nTicket 812\nTicket 813\nTicket 814\nTicket 815\nTicket 816\nTicket 817\nTicket 818\nTicket 819\nTicket 820\nTicket 821\nTicket 822\nTicket 823\nTicket 824\nTicket 825\nTicket 826\nTicket 827\nTicket 828\nTicket 829\nTicket 830\nTicket 831\nTicket 832\nTicket 833\nTicket 834\nTicket 835\nTicket 836\nTicket 837\nTicket 838\nTicket 839\nTicket 840\nTicket 841\nTicket 842\nTicket 843\nTicket 844\nTicket 845\nTicket 846\nTicket 847\nTicket 848\nTicket 849\nTicket 850\nTicket 851\nTicket 852\nTicket 853\nTicket 854\nTicket 855\nTicket 856\nTicket 857\nTicket 858\nTicket 859\nTicket 860\nTicket 861\nTicket 862\nTicket 863\nTicket 864\nTicket 865\nTicket 866\nTicket 867\nTicket 868\nTicket 869\nTicket 870\nTicket 871\nTicket 872\nTicket 873\nTicket 874\nTicket 875\nTicket 876\nTicket 877\nTicket 878\nTicket 879\nTicket 880\nTicket 881\nTicket 882\nTicket 883\nTicket 884\nTicket 885\nTicket 886\nTicket 887\nTicket 888\nTicket 889\nTicket 890\nTicket 891\nTicket 892\nTicket 893\nTicket 894\nTicket 895\nTicket 896\nTicket 897\nTicket 898\nTicket 899\nTicket 900\nTicket 901\nTicket 902\nTicket 903\nTicket 904\nTicket 905\nTicket 906\nTicket 907\nTicket 908\nTicket 909\nTicket 910\nTicket 911\nTicket 912\nTicket 913\nTicket 914\nTicket 915\nTicket 916\nTicket 917\nTicket 918\nTicket 919\nTicket 920\nTicket 921\nTicket 922\nTicket 923\nTicket 924\nTicket 925\nTicket 926\nTicket 927\nTicket 928\nTicket 929\nTicket 930\nTicket 931\nTicket 932\nTicket 933\nTicket 934\nTicket 935\nTicket 936\nTicket 937\nTicket 938\nTicket 939\nTicket 940\nTicket 941\nTicket 942\nTicket 943\nTicket 944\nTicket 945\nTicket 946\nTicket 947\nTicket 948\nTicket 949\nTicket 950\nTicket 951\nTicket 952\nTicket 953\nTicket 954\nTicket 955\nTicket 956\nTicket 957\nTicket 958\nTicket 959\nTicket 960\nTicket 961\nTicket 962\nTicket 963\nTicket 964\nTicket 965\nTicket 966\nTicket 967\nTicket 968\nTicket 969\nTicket 970\nTicket 971\nTicket 972\nTicket 973\nTicket 974\nTicket 975\nTicket 976\nTicket 977\nTicket 978\nTicket 979\nTicket 980\nTicket 981\nTicket 982\nTicket 983\nTicket 984\nTicket 985\nTicket 986\nTicket 987\nTicket 988\nTicket 989\nTicket 990\nTicket 991\nTicket 992\nTicket 993\nTicket 994\nTicket 995\nTicket 996\nTicket 997\nTicket 998\nTicket 999\nTicket 1000\n",
+      "randomness": "000000000000000000001268aab06132c2dd203f77b6020462cd177942d6959d",
+      "fingerprint": "e1ec25543c0afb4a4fc8170d21821014e040ac9f5d9b15c054848de5380212b2",
+      "selected": [
+        845,
+        8,
+        342,
+        584,
+        433,
+        301,
+        143,
+        391,
+        752,
+        316,
+        960,
+        374,
+        66,
+        149,
+        650,
+        878,
+        585,
+        227,
+        977,
+        129,
+        883,
+        848,
+        645,
+        431,
+        504
+      ],
+      "selectedTickets": [
+        "0079fe17cffd6bc4fe5d056f39b25958d9cc3991dd919a2ae9351933fb643ed8",
+        "011dfb7767af52fe49cd07d2121540319896d5369fa64c84e19ae7231cc1c51b",
+        "017917746e311c63e931fc6d8155562e79bce07c5df1ecc995535664953d0e51",
+        "0186ff606ad51828f35343c0b3e599d4ddd6c2e00b062444aaff8e7c48e51752",
+        "0202ef7cde90a0493a1eaf6ed744eb8bc3f836d888ceaf80b6262765a258ee32",
+        "02198ed031c2c2a8bd5297ccf49e4fae93cdb26a88ccb1c4e6fded95d74bd146",
+        "021e91faeaa67e288ccef3b0009c32b1b0a388d010dd300077bd2059dc54568e",
+        "02326077ebb66150cad2937adffb7e59a4af5993356736f905b06bef2f92b1d0",
+        "02bb4c711b474b0ca0ab4b67664e39e17f7e08b17d021ae817ab4c839ef08e39",
+        "02fe8d4485e6c926bbd3ff4e2f646415cfc7c360770f0bceee253eef9bd1df70",
+        "033821ec82ddaa682b5c73c27b47b22548792e7f7fa17212c69ce45d0bd3d57e",
+        "039aae857452674d7ffbe84fa2ca4fdb3133192342128e04df0b62832dbc5120",
+        "03a56637ce11f3a519331d90eb0098a2c4967fc7f8e1462106bbb4d2773cf2a1",
+        "0401dff1b7e5e1d516cdcdade19d26fd6d4ff28cae48a89e06cece346e32ea43",
+        "040b9695ca04fd8a456f8b9036b43b84dae7bc8ed6c188ee970385d81583a4b7",
+        "040c593539c5aef3f6b13adad435af9f769d79212f2f7ac3cdc2dc27c67bc671",
+        "044129b55d44f54911bc0c2416c3a23320a3efd48a52511ff9079e114b1778be",
+        "04562bd129d180d89cca8e34749c3445b31dc21b0c709887b8aae150a2cad1d0",
+        "048d24be15d1a758f6f4b6e999ced5cdbc4c0aa05e872593dbb9f76caceaa54a",
+        "051552b56cae8e8980120bd749dcc831ddb29b65fdd7c56805a4fc55a837017e",
+        "051cecaa1a6c3079ba3d1755950682fdaabce49dc8fac9994c0dd8c56c8931f4",
+        "054aa318e97bd757c8e9e372313f734cc078ec200fb0f068f274437adef0115a",
+        "058a8beece6b3052ee3d6ff71df3ece1e3545f6efcebf9d1fbe0fc71cde62910",
+        "05c61d6c8553f8ef3bd1bc09102cf527c78af765b2d9b8bb2dc04336991c7607",
+        "06487d187140d2717001b04c67e2b4f099ab36e37d9f8f4eb5ac58751f74c302"
+      ]
+    }
+  ]
+}
