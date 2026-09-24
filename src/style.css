@@ -147,6 +147,18 @@ pre {
   border-radius: 999px;
 }
 
+.privacy h2 {
+  margin-top: 24px;
+}
+
+.privacy .lead-text {
+  font-size: 18px;
+}
+
+.privacy ul {
+  padding-left: 1.2em;
+}
+
 .about-name {
   padding: 8px 4px 16px;
 }

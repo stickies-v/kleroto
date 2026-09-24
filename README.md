@@ -31,6 +31,10 @@ The name comes from the *kleroterion*, the stone machine that ancient Athens use
 
 The full algorithm is in [docs/SPEC.md](docs/SPEC.md).
 
+## Privacy
+
+There are no accounts and no cookies. The draw data is in the link fragment (after `#`), which browsers never send to a server. Kleroto counts visits with [GoatCounter](https://www.goatcounter.com/), a cookie-free analytics service. It sends only fixed page types (`/`, `/draw`, `/privacy`, `/invalid-link`), a `draw-created-<oracle>` event, the referrer and the screen width, and never anything from the fragment. Browsers with "Do Not Track" or "Global Privacy Control" are not counted, and neither are local visits. The details for visitors are on the site's privacy page (`#privacy`), and the code is in `src/analytics.ts`.
+
 ## Development
 
 ```sh
@@ -50,7 +54,7 @@ A change to the algorithm changes the results of existing links. Do not do this 
 
 ## Configuration
 
-The app name, the tagline and the repository URL are in `src/config.ts`. The placeholder examples are in `src/examples.ts`.
+The app name, the tagline, the repository URL and the analytics endpoint are in `src/config.ts`. The placeholder examples are in `src/examples.ts`.
 
 ## Deploy
 

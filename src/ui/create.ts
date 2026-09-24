@@ -1,5 +1,6 @@
 import { APP_NAME, APP_TAGLINE } from '../config';
 import { DrawFormatError, LIMITS, cleanText, encodeFragment, type Draw, type Source } from '../draw';
+import { count } from '../analytics';
 import { randomExample } from '../examples';
 import { BLOCK_INTERVAL_SECONDS, expectedTime, fetchTipHeight } from '../sources/bitcoin';
 import { firstRoundAtOrAfter, roundTime } from '../sources/drand';
@@ -186,6 +187,7 @@ export function renderCreate(root: HTMLElement): () => void {
         participants: readParticipants(),
       };
       const fragment = encodeFragment(draw);
+      count({ path: `draw-created-${readOracle()}`, title: 'Draw created', event: true });
       markCreated(fragment);
       location.hash = fragment;
     } catch (err) {
